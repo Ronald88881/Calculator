@@ -1,6 +1,6 @@
 print("Basic Calculator Program")
 
-# User inputs
+# Manual Inputs
 number1 = float(input("Enter first number: "))
 number2 = float(input("Enter second number: "))
 operation = input("Enter operation (+, -, *, /): ")
